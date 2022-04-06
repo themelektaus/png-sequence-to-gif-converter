@@ -6,7 +6,7 @@
 
 ### 1. Unity Recorder
 
-Install the Unity Package "Recorder" and open the Recorder window.<br>
+Install the Unity Package called "Recorder" and open the Recorder Window.<br>
 Add a new "Image Sequence"-Recorder and make sure that the Media File Format is set to "PNG"
 
 ![](https://raw.githubusercontent.com/themelektaus/png-sequence-to-gif-converter/main/Screenshots/Example%20Screenshot%201.png)
@@ -17,7 +17,7 @@ Record whatever you want. You can define an unique solid color on your camera wh
 
 ### 3. Recorded Frames
 
-Now you should have all your recorded frames inside the specified output folder. You also may delete some unnecessary frames.
+Now you should have all your recorded frames inside the specified output folder. You also may delete some unnecessary files.
 
 ![](https://raw.githubusercontent.com/themelektaus/png-sequence-to-gif-converter/main/Screenshots/Example%20Screenshot%202.png)
 
@@ -33,7 +33,7 @@ Extract them to the ImageMagick-folder of "PNG Sequence to GIF Converter"
 
 ### 5. PNG Sequence to GIF Converter
 
-Launch the "PngSequenceToGifConverter.exe" and drop the folder of your recorded frames inside of it.<br>
+Launch the "PngSequenceToGifConverter.exe" and drop the folder of your recorded frames.<br>
 
 ![](https://raw.githubusercontent.com/themelektaus/png-sequence-to-gif-converter/main/Screenshots/Example%20Screenshot%205.png)
 
@@ -45,7 +45,7 @@ All your frames should appear. Now click the Convert-Button
 
 ### 7. Enjoy the result
 
-If everything works fine, the output folder should open up with the animated GIF.
+If everything works fine, the output folder should open with the animated GIF.
 
 ![](https://raw.githubusercontent.com/themelektaus/png-sequence-to-gif-converter/main/Screenshots/Example%20Screenshot%207.png)
 
