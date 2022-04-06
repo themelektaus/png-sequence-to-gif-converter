@@ -1,0 +1,1 @@
+# png-sequence-to-gif-converter
