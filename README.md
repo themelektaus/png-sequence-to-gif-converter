@@ -1,5 +1,7 @@
 # PNG Sequence to GIF Converter
 
+![](https://raw.githubusercontent.com/themelektaus/png-sequence-to-gif-converter/main/Screenshots/637848634912113878.gif)
+
 ## Quickstart
 
 ### 1. Unity Recorder
