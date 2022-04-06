@@ -1,1 +1,1 @@
-# png-sequence-to-gif-converter
+# PNG Sequence to GIF Converter

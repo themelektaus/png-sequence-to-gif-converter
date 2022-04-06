@@ -1,0 +1,8 @@
+/.vs/
+/Build/
+/ImageMagick/
+/bin/
+/obj/
+/Properties/PublishProfiles/
+/Screenshots/
+*.csproj.user
