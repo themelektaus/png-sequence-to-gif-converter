@@ -33,5 +33,8 @@ public class Config
 
     public string imageMagickPath { get; set; } = "ImageMagick";
     public int delay { get; set; } = 2;
+    public int skip { get; set; } = 0;
     public int loop { get; set; } = 0;
+    public int scale { get; set; } = 100;
+    public bool transparency { get; set; } = false;
 }
